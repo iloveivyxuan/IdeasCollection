@@ -1,3 +1,19 @@
 https://generativeartistry.com/tutorials/
 
 https://el.media.mit.edu/logo-foundation/services/ta.html#:~:text=TurtleArt%20is%20a%20microworld%20for,built%20by%20snapping%20together%20blocks.
+
+The role of tools and technologies in computer science learning
+- Malmi, L., Utting, I., Ko, A.J., 2019. Chapter 21: Tools and Environments. The Cambridge Handbook of Computing Education Research. Cambridge University Press.
+- Resnick, M., Maloney, J., Monroy-Hernández, A., Rusk, N., Eastmond, E., Brennan, K., Millner, A., Rosenbaum, E., Silver, J., Silverman, B. and Kafai, Y., 2009. Scratch: programming for all. Communications of the ACM, 52(11), pp.60-67.
+
+Why I don't use Processing to do computer science education?
+- Processing is a professional tool and is more complex and general than is needed in education. (Processing has a lot of APIs, which is hard to memorize and get started with)
+
+Block-based programming VS Text-based programming
+pros: 
+- natural language description of blocks
+- the drag-and-drop composition interaction
+
+cons:
+- lack of authenticity
+- less powerful
